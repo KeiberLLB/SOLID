@@ -8,5 +8,4 @@ public class RobotWorker implements Worker{
   public void work() {
     // Lógica para trabajar
   }
-  
 }
