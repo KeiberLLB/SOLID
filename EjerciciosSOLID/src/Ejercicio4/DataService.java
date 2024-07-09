@@ -1,4 +1,4 @@
-package Ejercicio4.controller;
+package Ejercicio4;
 
 import Ejercicio4.interfaces.DataStorage;
 
